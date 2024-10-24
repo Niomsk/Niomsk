@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niomsk
-- 👀 I’m interested in android development and cybersecurity
+- 👀 I’m interested in android software development and cybersecurity
 - 🌱 I’m currently learning c++
 
 <!---
